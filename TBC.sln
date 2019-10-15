@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBC", "TBC.csproj", "{B1D6B622-9C5C-440E-A1F9-D4D45EC33B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBC Service", "TBC Service\TBC Service.csproj", "{AC4DE5ED-6D1C-44EB-A892-78E73EF5ED50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBC Package", "TBC Package\TBC Package.csproj", "{64E52FAB-B448-4CDD-B998-65D7E3DD8DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D6B622-9C5C-440E-A1F9-D4D45EC33B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D6B622-9C5C-440E-A1F9-D4D45EC33B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D6B622-9C5C-440E-A1F9-D4D45EC33B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D6B622-9C5C-440E-A1F9-D4D45EC33B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4DE5ED-6D1C-44EB-A892-78E73EF5ED50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4DE5ED-6D1C-44EB-A892-78E73EF5ED50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4DE5ED-6D1C-44EB-A892-78E73EF5ED50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4DE5ED-6D1C-44EB-A892-78E73EF5ED50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E52FAB-B448-4CDD-B998-65D7E3DD8DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E52FAB-B448-4CDD-B998-65D7E3DD8DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E52FAB-B448-4CDD-B998-65D7E3DD8DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E52FAB-B448-4CDD-B998-65D7E3DD8DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3B133EC-CCF3-4B2E-A67C-A0D2E00D8B37}
+	EndGlobalSection
+EndGlobal
